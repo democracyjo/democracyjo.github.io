@@ -15,8 +15,8 @@ Fusce non velit cursus ligula mattis convallis vel at metus. Sed pharetra tellus
 {: data-content="discussions"}
 
 This article has been discussed here:
-- [lobste.rs](#)
-- [/r/webdev](#)
+- [lobste.rs][def]
+- [/r/webdev][def]
 
 Feel free to reach out at my email to leave feedback and talk about the article.
 
@@ -26,3 +26,5 @@ Feel free to reach out at my email to leave feedback and talk about the article.
 [^1]: Okay here I should put something about "ipsum".
 [^2]: same goes for this.
 [^3]: I studied latin in high school but im not able to translate *anything*! By the way this is a longer footnote and i think it is still pretty cool, even prettier than shortier ones even though it does not say anything useful but whatever.
+
+[def]: #
